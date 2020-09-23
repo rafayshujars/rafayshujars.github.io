@@ -1,4 +1,4 @@
-![MY IMAGE]https://image.shutterstock.com/image-vector/god-zeus-mascot-logo-260nw-1316878193.jpg
+![MY IMAGE](https://image.shutterstock.com/image-vector/god-zeus-mascot-logo-260nw-1316878193.jpg)
 # Rafay Shuja
 
 ***Adress:** Khudadad, Colony, Karachi.*
