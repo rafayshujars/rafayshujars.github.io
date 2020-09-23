@@ -1,4 +1,4 @@
-![MY IMAGE]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fzeus%2Blogo&psig=AOvVaw0UbWTRTN4rmfJJeiBa30uH&ust=1600955447958000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiM3_i1_-sCFQAAAAAdAAAAABAD
+![MY IMAGE]https://image.shutterstock.com/image-vector/god-zeus-mascot-logo-260nw-1316878193.jpg
 # Rafay Shuja
 
 ***Adress:** Khudadad, Colony, Karachi.*
