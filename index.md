@@ -56,7 +56,32 @@ To obtain a position that challenges me and provides me the opportunity to reach
         <li><a href="about.html"></a></li>
         <li><a href="portfolio.html"></a></li>
     </ul>
+         <img src="uploads/Apple-iphone-7-plus-425x425.jpg" width="200" alt="" srcset="">
+    <img src="uploads/982016125448AM_635_iphone_7_plus.webp" width="200" alt="" srcset="">
     </div>
+    <body>
+    <a href="../../index.html">Go Back</a>
+    <table border="1">
+        <thead>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Place</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Rafay Shuja</td>
+                <td>19</td>
+                <td>Pakistan</td>
+            </tr>
+            <tr>
+                <td>Shahid Afridi</td>
+                <td>40</td>
+                <td>Pakistan</td>
+            </tr>
+        </tbody>
+    </table>
+    
+</body>
     
 </body>
 </html>
