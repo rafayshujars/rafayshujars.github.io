@@ -80,7 +80,7 @@ To obtain a position that challenges me and provides me the opportunity to reach
             </tr>
             <tr>
                 <td>Shahid</td>
-    
+                
                 <td>India</td>
             </tr>
             <tr>
@@ -93,8 +93,6 @@ To obtain a position that challenges me and provides me the opportunity to reach
             </tr>
         </tbody>
     </table>
-    
-</body>
     
 </body>
 </html>
