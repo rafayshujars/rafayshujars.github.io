@@ -75,8 +75,21 @@ To obtain a position that challenges me and provides me the opportunity to reach
             </tr>
             <tr>
                 <td>Shahid Afridi</td>
-                <td>40</td>
+                <td rowspan="3">A</td>
                 <td>Pakistan</td>
+            </tr>
+            <tr>
+                <td>Shahid</td>
+    
+                <td>India</td>
+            </tr>
+            <tr>
+            <td>Ali</td>
+           
+            <td>USA</td>
+            </tr>
+            <tr>
+                <td colspan="3">Total Marks 850</td>
             </tr>
         </tbody>
     </table>
