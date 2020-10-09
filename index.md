@@ -263,3 +263,74 @@ To obtain a position that challenges me and provides me the opportunity to reach
 </html>
 
 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+<style>
+    *{
+        border: 1px solid black ;
+        height: 50px;
+    }
+    #navbar{
+        background-color: blanchedalmond;
+    }
+    .left_side_nav{
+        background-color: blue;
+    }
+    .right_side_nav{
+        background-color: cadetblue;
+    }
+    .logo{
+        background-color: crimson;
+    }
+    #container{
+        background-color: darkgreen;
+    }
+    .left_menu{
+        background-color: darkred;
+    }
+    .main_content{
+        background-color: darkviolet;
+    }
+    .site_ads{
+        background-color: firebrick;
+    }
+    #footer{
+        background-color: lightsalmon;
+    }
+    .copy{
+        background-color: lightseagreen;
+    }
+</style>
+</head>
+<body>
+    <div id="navbar">
+        <div class="left_side_nav"></div>
+        <div class="logo"></div>
+        <div class="right_side_nav"></div>
+    </div> 
+    
+    <div id="container">
+        <div class="left_menu"></div>
+        <div class="main_content"></div>
+        <div class="site_ads"></div>
+    </div>
+    <div id="footer"></div>
+    <div>
+
+    </div>
+    <div class="copy">
+
+    </div>
+    
+
+</body>
+</html>
+
+
