@@ -262,9 +262,6 @@ To obtain a position that challenges me and provides me the opportunity to reach
 </body>
 </html>
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -273,10 +270,6 @@ To obtain a position that challenges me and provides me the opportunity to reach
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 <style>
-    *{
-        border: 1px solid black ;
-        height: 50px;
-    }
     #navbar{
         background-color: blanchedalmond;
     }
@@ -310,10 +303,29 @@ To obtain a position that challenges me and provides me the opportunity to reach
 </style>
 </head>
 <body>
-    <div id="navbar">
-        <div class="left_side_nav"></div>
-        <div class="logo"></div>
-        <div class="right_side_nav"></div>
+<div id="navbar">
+    <div class="logo">
+        <img width="100">
+        <a href="index.html"><img width="100>
+            src="shopify&oq=shop&aqs=chrome.1.69i57j0j46j0l4j69i61.3197j0j1&sourceid=chrome&ie=UTF-8">
+    </div>
+
+        <div class="left_side_nav">
+              <ul>
+                  <li>BEST SELLERS</li>
+                  <li>NEW ARRIVALS</li>
+                  <li>ABOUT</li>
+                  <li>STORES</li>
+                  <li>FAQ'S</li>
+              </ul>
+        </div>
+        
+        <div class="right_side_nav">
+            <ul>
+                <li>Checkout</li>
+                <li>Cart</li>
+                <li>Search</li>
+            </ul>
     </div> 
     
     <div id="container">
@@ -332,5 +344,3 @@ To obtain a position that challenges me and provides me the opportunity to reach
 
 </body>
 </html>
-
-
