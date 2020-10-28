@@ -181,3 +181,41 @@ To obtain a position that challenges me and provides me the opportunity to reach
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" method="GET">
+     <label for="fname">First Name</label>
+     <input type="text" autofocus name="fname" placeholder="Enter your first name" id="fname">
+     <br>
+     <br>
+     <label for="lname">Last Name</label>
+     <input type="text" autocomplete="off" name="lname" placeholder="Enter your last name" 
+     id="lname">
+     <br>
+     <br>
+     <label for="suggestion">Suggestion</label>
+     <br>
+     <textarea name="suggestion" id="suggestion" cols="30" rows="10"></textarea>
+     <br>
+     <br>
+     <label for="languages">Languages</label>
+     <input type="checkbox" name="languages" id="html" checked>HTML
+     <input type="checkbox" name="languages" id="css" checked>CSS
+     <input type="checkbox" name="languages" id="css" checked>JAVASCRIPT
+     <br>
+     <br>
+     <label for="gender">Gender</label>
+     <input type="radio" name="gender" id="male" checked>male
+     <input type="radio" name="gender" id="female">female
+     <br>
+     <br>
+     <button type="submit">Submit Feedback</button>
+    </form>
+</body>
+</html>
