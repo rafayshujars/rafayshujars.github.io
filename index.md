@@ -219,3 +219,43 @@ To obtain a position that challenges me and provides me the opportunity to reach
     </form>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+       // var age=prompt("Enter your age");
+       // if(age<18){
+       //   alert("Not eligible for cnic");
+       // }
+       // else{
+       //   alert("eligible for cnic");
+       //  }
+       
+     //  var num1=prompt("Enter first number");
+     //  var num2=prompt("Enter second number");
+     //  if (num2==0) {
+     //      alert(num1/num2);
+     //  } else{
+     //      alert(num1/num2);
+     //  }
+
+     var percentage=prompt("Enter your percentage");
+     if(percentage>=90){
+         alert("A GRADE");
+     }
+    else if(percentage>=80){
+        alert("B GRADE")
+    }
+    else{
+        alert("Failed");
+    }
+      
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
