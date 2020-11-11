@@ -259,3 +259,19 @@ To obtain a position that challenges me and provides me the opportunity to reach
     
 </body>
 </html>
+var num1=prompt("Enter first number");
+      if(percentage>100|| percentage<=0){
+          alert("INVALID PERCENTAGE");
+      }
+      else if(percentage>=90 && percentage<=100){
+          alert("A GRADE");
+      }
+      else if(percentage>=80){
+          alert("B GRADE")
+      }
+      else if(percentage>=70){
+          alert("C GRADE")
+      }
+      else if(percentage>=60){
+          alert("D GRADE")
+      }
