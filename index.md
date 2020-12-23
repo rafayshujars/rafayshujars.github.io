@@ -275,3 +275,101 @@ var num1=prompt("Enter first number");
       else if(percentage>=60){
           alert("D GRADE")
       }
+      
+      
+      
+      
+      
+      <?php
+
+//superglobal variable
+$name=$_REQUEST["name"];
+$email=$_REQUEST["email"];
+$query=$_REQUEST["query"];
+$languages=$_REQUEST["languages"];
+$token=$_REQUEST["token"];
+
+echo"<b>Query Type:$query</b><br>";
+if($gender=="Male"){
+    echo "Thanks Mr.$name for your feedback<br>";
+}
+else{
+    echo"Thanks Ms.$name for your feedback<br>";
+}
+if($age>=18){
+    echo"You recieved 1000 IRR discount<br>";
+}
+$role="Admin";
+if(!($role=="User")){
+    echo"welcome Admin<br>";
+}
+else{
+    echo"Welcome User<br>";
+}
+
+echo"A copy of your response has been sent to your email <strong>$email</strong>";
+echo"<br> Your feedback token ID is $token";
+?>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+     <form action="">
+     <label for="name">Name</label>
+     <input type="text" name="name" id="name" required>
+     <br>
+     <br>
+     <label for="email">Email</label>
+     <input type="email" name="email" id="email" required>
+     <br>
+     <br>
+     <label for="gender">Gender</label>
+     <input type="radio" value="male"
+      name="gender" id="gender" checked>Male
+     <input type="radio" value="female" 
+     name="gender" id="gender" checked>Female
+     <label for="age">Age</label>
+     <input type="number" name="age" id="age" required>
+     <br>
+     <br>
+     <label for="languages">Languages</label>
+     <input type="checkbox" value="english"
+     name="languages[]" id="">English
+     <br>
+     <br>
+     <select name="query" id="query">
+     <option value="general">General</option>
+     <option value="payment">Payment</option>
+     <option value="account">Account</option>
+     <option value="refund">Refund</option>
+     </select>
+
+     <label for="phone">Phone</label>
+     <input type="number" name="phone" id="phone" required>
+     <br>
+     <br>
+     <label for="comment">Comment</label>
+     <br>
+     <textarea name="comment" id="comment" cols="30" 
+     rows="10"><textarea>
+     <br>
+     <br>
+     <button type="submit">Submit</button>
+</body>
+</html>
+
+
+      
+      
+      
+      
+      
+      
