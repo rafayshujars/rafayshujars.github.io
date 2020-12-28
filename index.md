@@ -366,7 +366,37 @@ echo"<br> Your feedback token ID is $token";
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<?php
+   $marks-[45,67,99];
+   var_dump($marks);
+   echo"<br>";
 
+   $cart=array("Apple","Mango","Banana");
+   var_dump($acrt);
+   echo"<br>";
+
+   $weight=[];
+
+   echo"<br>";
+
+   $weight[0]-67.89;
+   $weight[10]=657.89;
+   $weight[20]=617.89;
+   var_dump($weight);
+
+    echo $weight[1];
+    ?>
+</body>
+</html>
       
       
       
