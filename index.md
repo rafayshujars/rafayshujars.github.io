@@ -593,7 +593,98 @@ echo"<br> Your feedback token ID is $token";
     background-color: #fac769;
 }
 
-      
+      <!DOCTYPE html>
+<head>
+    <title>Document</title>  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="project.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+</head>
+<body>
+    <div class="row">
+        <div class="col-12" style="background-color: black; height: 100px;"></div>
+    </div>
+    <nav class="navbar navbar-expand sm-col-12" style="background-color: pink; height: 50px;">
+        <ul class="navbar-nav .justify-content-center">
+            <li class="nav-item">
+                <a class="nav-link" href="#">HOME</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">DAILY DIARY</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">ASSEST CLASS
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">List 1</a>
+                        <a class="dropdown-item" href="#">List 2</a>
+                        <a class="dropdown-item" href="#">List 3</a>
+                    </div>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">SECTOR</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">LATEST</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">STREET NOTES</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">AUTHORS</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">OPTIONS</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">RMPIA</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">SWITCH PRODUCT</a>
+            </li>
+        </ul>
+    </nav>
+    <div class="shell container-fluid">
+        <h1>HOME / JIM CRAMER</h1>
+        <h2>Jim Cramer: Here Are the Biden Stocks</h2>
+        <p>As power has changed hands in the White House, we can expect these names -- and <br> themes -- to benefit.</p>
+        <h3>By <span><a href="#" style="color: red;">JIM CRAMER</a></span> <button class="btn btn-primary">+FOLLOW</button> Jan 20, 2021 | 01:59 PM EST </h3>
+        <div class="icon-shell"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+    </div>
+    
+</body>
+</html>
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&display=swap');
+ul {
+    margin: auto;
+}
+.shell {
+    padding-left: 30px;
+}
+.shell h1 {
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.shell p {
+    font-size: 25px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.shell h3 {
+    font-size: 15px;
+}
+.btn {
+    width: 80px;
+    font-size: 10px;
+    height: 12px;
+    border-radius: 30px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
       
       
       
