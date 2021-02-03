@@ -465,7 +465,134 @@ echo"<br> Your feedback token ID is $token";
             </div>
 </body>
 </html>
-      
+      .main-container {
+
+    width: 100%;
+    height: 800px;
+    background-image: url(bac.jpg);
+    background-size: 1100px 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    margin: auto;
+
+
+}
+.btn {
+    width: 100px;
+    height: 30px;
+    margin-left: 85%;
+    border-radius: 25px;
+    margin-top: 10px;
+    
+    
+}
+.btn:hover{
+    background-color: black;
+    color: brown;
+}
+.text-shell {
+    width: 40%;
+    height: 400px;
+    margin-top: 0px;
+    padding-left: 100px;
+    padding-top: 250px;
+    padding-right: 200px;
+    margin-top: 0px;
+
+
+}
+.button {
+    border-radius: 400px;
+    border: transparent;
+
+}
+.button:hover{
+    background-color:rgb(15, 14, 14);
+    color: cornsilk;
+}
+.text-shell h1 {
+    font-size: 37px;
+}
+.text-shell h6 {
+    margin: 0px;
+    font-size: 15px;
+}
+.section {
+    
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    
+    padding-top: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+
+}
+.section h1 {
+    font-size: 40px;
+    font-weight: 100px;
+    padding-left: 10px;
+    
+}
+.business-template {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: #fac769;
+    padding-top: 15px;
+    color:white;
+}
+.headphone h3 {
+    width: 100%;
+    font-size: 40px;
+    font-weight: 50;
+    padding-left: 60px;
+}
+.product {
+    width: 25%;
+    height: 300px;
+    background-color: #fac769; 
+    font-size: 13px;
+    margin-left: 65px;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+    
+}
+.product img {
+    width: 100%;
+    height: 150px;
+    
+    
+}
+.product p{
+    color: white;
+    font-weight: 100;
+    padding-left: 10px;
+}
+.product h3{
+    padding-left: 10px;
+}
+.new-headphone {
+    width: 100%;
+    height: auto;
+    margin-top: 40%;
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 10;
+    padding-left: 60px;
+}
+.head{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 40px;
+    border-radius: 20px;
+    border: transparent;
+    background-color: #fac769;
+}
+
       
       
       
