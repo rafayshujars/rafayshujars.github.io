@@ -397,7 +397,74 @@ echo"<br> Your feedback token ID is $token";
     ?>
 </body>
 </html>
-      
+      <!DOCTYPE html>
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="temp.css">
+</head>
+<body>
+    <div class="main-container">
+        <button class="btn" style="font-size: 15px;">cart</button>
+    <div class="text-shell">
+        
+        <h6>THINKING TO BUY A HEADPHONE?</h6>
+        <h1>HTML Business
+                      <br>Template</h1>
+                    <button class="button">Shopping Now</button>
+    </div>
+    </div>
+    <div class="section">
+        <h1>Find a quality and right headphones not easy</h1>
+        <p style="padding-left: 10px;">    Experience the exact
+         same raised experience as well as incredible audio UHP has
+          actually been delivering to opera
+           house, workshops and also living rooms
+            for 50 years with Business HTML Templates.
+            The headphones are all made by HTML Business
+             Template from thoroughly chosen products such
+              as soft lambskin, cowhide natural leather and
+               also plated aluminium to make certain excellent
+                quality as well as convenience so you could enjoy exceptional flexibility and also craftsmanship. <a href="https://mobirise.com/html-templates/shop/">learn more...</a> </p>
+    </div>
+    </div>
+    <div class="business-template">
+        <h1>Business Website Templates Free Download</h1>
+    </div>
+    <div class="headphone">
+        <h3>Hottest headphones of the month</h3>
+    </div>
+    <div class="product">
+        <button class="head">HEADPHONES</button>
+    <img src="01.jpg">
+    <h3>Headphone <br>RS.2000/=</h3>
+    
+    <p>actually been delivering to opera
+        house, workshops and also living rooms
+         for 50 years with Business HTML Templates.</p>
+    </div>
+    <div class="product">
+        <button class="head">HEADPHONES</button>
+        <img src="02.jpg">
+        <h3>Headphone <br>RS.2000/=</h3>
+        
+        <p>actually been delivering to opera
+            house, workshops and also living rooms
+             for 50 years with Business HTML Templates.</p>
+        </div>
+        <div class="product">
+            <button class="head">HEADPHONES</button>
+            <img src="03.jpg">
+            <h3>Headphone <br>RS.2000/=</h3>
+            
+            <p>actually been delivering to opera
+                house, workshops and also living rooms
+                 for 50 years with Business HTML Templates.</p>
+            </div>
+            <div class="new-headphone">
+                <p>Meet Our New Headphones🔥</p>
+            </div>
+</body>
+</html>
       
       
       
